@@ -1,4 +1,6 @@
-/* input
+/* Implement pseudocode in Stamp tutorial.
+ * 
+ * input
  *  A  : transition matrix
  *  B  : observation matrix
  *  pi : initial state distribution
